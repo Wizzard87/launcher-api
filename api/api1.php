@@ -1,6 +1,6 @@
 {
 	"launcher_version": 33,
-	"launcher_url": "https://cdn-space.spacerp.ru/files/build5/launcher_space.apk?edgar=1829top09",
+	"launcher_url": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/launcher_space.apk?edgar=1829top09",
 	"launcher_path": "/storage/emulated/0/Android/data/ru.edgar.space/files/launcher_space.apk",
 	"launcher_name": "/launcher_space.apk",
 	"isTest": false,
@@ -11,7 +11,7 @@
             "type": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb",
 			"zip_path": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb/archive_txd1.zip",
             "size": 545036062,
-            "urls": "https://cdn-space.spacerp.ru/files/build5/archive_txd1.zip?edgar=1829top09",
+            "urls": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/archive_txd1.zip?edgar=1829top09",
 			"paths": [
 				{
 					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb/gta_int"
@@ -25,7 +25,7 @@
             "type": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb",
 			"zip_path": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb/archive_txd2.zip",
             "size": 185915466,
-            "urls": "https://cdn-space.spacerp.ru/files/build5/archive_txd2.zip?edgar=1829top09",
+            "urls": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/archive_txd2.zip?edgar=1829top09",
 			"paths": [
 				
 				{
@@ -55,7 +55,7 @@
             "type": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb",
 			"zip_path": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb/archive_img1.zip",
             "size": 356608000,
-            "urls": "https://cdn-space.spacerp.ru/files/build5/archive_img1.zip?edgar=1829top09",
+            "urls": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/archive_img1.zip?edgar=1829top09",
 			"paths": [
 				{
 					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb/gta_int.img"
@@ -75,7 +75,7 @@
             "type": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb",
 			"zip_path": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb/archive_img2.zip",
             "size": 687067136,
-            "urls": "https://cdn-space.spacerp.ru/files/build5/archive_img2.zip?edgar=1829top09",
+            "urls": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/archive_img2.zip?edgar=1829top09",
 			"paths": [
 				{
 					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb/gta3.img"
@@ -86,7 +86,7 @@
             "type": "/storage/emulated/0/Android/data/ru.edgar.space/files",
 			"zip_path": "/storage/emulated/0/Android/data/ru.edgar.space/files/archive_lite.zip",
             "size": 111827652,
-            "urls": "https://cdn-space.spacerp.ru/files/build5/archive_lite.zip?edgar=1829top09",
+            "urls": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/archive_lite.zip?edgar=1829top09",
 			"paths": [
 				{
 					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/data"
@@ -109,7 +109,7 @@
             "type": "/storage/emulated/0/Android/data/ru.edgar.space/files",
 			"zip_path": "/storage/emulated/0/Android/data/ru.edgar.space/files/archive_config.zip",
             "size": 131403,
-            "urls": "https://cdn-space.spacerp.ru/files/build5/archive_config.zip?edgar=1829top09",
+            "urls": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/archive_config.zip?edgar=1829top09",
 			"paths": [
 				{
 					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/Adjustable.cfg"
