@@ -1,0 +1,10 @@
+{
+	"servers": "https://cdn-space.spacerp.ru/api/Requests/Servers.php?edgar=1829top09",
+	"stories": "https://cdn-space.spacerp.ru/api/Requests/Stories.php?edgar=1829top09",
+	"faq": "https://cdn-space.spacerp.ru/api/Requests/Faq.php?edgar=1829top09",
+	"createCharacter": "https://cdn-space.spacerp.ru/api/Requests/CreateCharacter.php?edgar=1829top09",
+    "verifyAuth": "https://cdn-space.spacerp.ru/api/Requests/VerifyAuth.php?edgar=1829top09",
+    "accountDetails": "https://cdn-space.spacerp.ru/api/Requests/AccountDetails.php?edgar=1829top09",
+    "isAcc": "https://cdn-space.spacerp.ru/api/Requests/IsAcc.php?edgar=1829top09",
+    "skinsCDN": "https://cdn-space.spacerp.ru/api/images/skin_"
+}
