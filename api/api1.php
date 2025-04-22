@@ -101,7 +101,7 @@
 					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/anim"
 				},
 				{
-					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/audio"
+					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/audio0"
 				},
 				{
 					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/fonts"
