@@ -102,6 +102,18 @@
 				},
 				{
 					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/audio"
+				},
+				{
+					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/fonts"
+				},
+				{
+					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/loader"
+				},
+				{
+					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/Text"
+				},
+				{
+					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/Textures"
 				}
 			]
         },
