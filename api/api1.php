@@ -10,7 +10,7 @@
         {
             "type": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb",
 			"zip_path": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb/archive_txd1.zip",
-            "size": 545036062,
+            "size": 353210709,
             "urls": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/archive_txd1.zip?edgar=1829top09",
 			"paths": [
 				{
@@ -24,7 +24,7 @@
 		{
             "type": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb",
 			"zip_path": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb/archive_txd2.zip",
-            "size": 185915466,
+            "size": 269242372,
             "urls": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/archive_txd2.zip?edgar=1829top09",
 			"paths": [
 				
@@ -54,7 +54,7 @@
 		{
             "type": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb",
 			"zip_path": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb/archive_img1.zip",
-            "size": 356608000,
+            "size": 4257792,
             "urls": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/archive_img1.zip?edgar=1829top09",
 			"paths": [
 				{
@@ -74,7 +74,7 @@
 		{
             "type": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb",
 			"zip_path": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb/archive_img2.zip",
-            "size": 687067136,
+            "size": 648009728,
             "urls": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/archive_img2.zip?edgar=1829top09",
 			"paths": [
 				{
@@ -85,7 +85,7 @@
         {
             "type": "/storage/emulated/0/Android/data/ru.edgar.space/files",
 			"zip_path": "/storage/emulated/0/Android/data/ru.edgar.space/files/archive_lite.zip",
-            "size": 111827652,
+            "size": 65627348,
             "urls": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/archive_lite.zip?edgar=1829top09",
 			"paths": [
 				{
@@ -115,19 +115,22 @@
 					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/Adjustable.cfg"
 				},
 				{
-					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/spa_ce.set"
+					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/gta_sa.set"
 				},
 				{
-					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/SPACE10.b"
+					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/GTASAMP10.b"
 				},
 				{
-					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/spacetelem.set"
+					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/gtasatelem.set"
 				},
 				{
 					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/stream.ini"
 				},
 				{
 					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/version.txt"
+				},
+                                {
+					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/CINFO.BIN"
 				}
 			]
         }
