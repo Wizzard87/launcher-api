@@ -10,7 +10,7 @@
         {
             "type": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb",
 			"zip_path": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb/archive_txd1.zip",
-            "size": 542645858,
+            "size": 545036062,
             "urls": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/archive_txd1.zip?edgar=1829top09",
 			"paths": [
 				{
