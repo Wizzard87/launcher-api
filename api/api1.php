@@ -85,7 +85,7 @@
         {
             "type": "/storage/emulated/0/Android/data/ru.edgar.space/files",
 			"zip_path": "/storage/emulated/0/Android/data/ru.edgar.space/files/archive_lite.zip",
-            "size": 158035660,
+            "size": 158217449,
             "urls": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/archive_lite.zip?edgar=1829top09",
 			"paths": [
 				{
