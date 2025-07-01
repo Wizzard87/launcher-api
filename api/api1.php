@@ -1,5 +1,5 @@
 {
-	"launcher_version": 45,
+	"launcher_version": 44,
 	"launcher_url": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/launcher_space.apk?edgar=1829top09",
 	"launcher_path": "/storage/emulated/0/Android/data/ru.edgar.space/files/launcher_space.apk",
 	"launcher_name": "/launcher_space.apk",
