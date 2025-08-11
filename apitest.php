@@ -107,9 +107,6 @@
 					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/fonts"
 				},
 				{
-					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/loader"
-				},
-				{
 					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/Text"
 				},
 				{
@@ -124,24 +121,12 @@
             "urls": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/archive_config.zip?edgar=1829top09",
 			"paths": [
 				{
-					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/Adjustable.cfg"
-				},
-				{
-					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/gta_sa.set"
-				},
-				{
-					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/GTASAMP10.b"
-				},
-				{
 					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/gtasatelem.set"
 				},
 				{
 					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/stream.ini"
 				},
-				{
-					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/version.txt"
-				},
-                                {
+                {
 					"path": "/storage/emulated/0/Android/data/ru.edgar.space/files/CINFO.BIN"
 				}
 			]
