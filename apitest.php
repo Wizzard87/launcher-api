@@ -10,7 +10,7 @@
         {
             "type": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb",
 			"zip_path": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb/archive_txd1.zip",
-            "size": 5450136062,
+            "size": 538196162,
             "urls": "http://cdn.lastprojectv.com/mobile/archive_txd1.zip?edgar=1829top09",
 			"paths": [
 				{
@@ -24,7 +24,7 @@
 		{
             "type": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb",
 			"zip_path": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb/archive_txd2.zip",
-            "size": 2692901690,
+            "size": 317094873,
             "urls": "http://cdn.lastprojectv.com/mobile/archive_txd2.zip?edgar=1829top09",
 			"paths": [
 				
@@ -54,7 +54,7 @@
 		{
             "type": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb",
 			"zip_path": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb/archive_img1.zip",
-            "size": 3501976000,
+            "size": 102483968,
             "urls": "http://cdn.lastprojectv.com/mobile/archive_img1.zip?edgar=1829top09",
 			"paths": [
 				{
@@ -74,7 +74,7 @@
 		{
             "type": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb",
 			"zip_path": "/storage/emulated/0/Android/data/ru.edgar.space/files/texdb/archive_img2.zip",
-            "size": 6480019728,
+            "size": 283521024,
             "urls": "http://cdn.lastprojectv.com/mobile/archive_img2.zip?edgar=1829top09",
 			"paths": [
 				{
@@ -85,7 +85,7 @@
         {
             "type": "/storage/emulated/0/Android/data/ru.edgar.space/files",
 			"zip_path": "/storage/emulated/0/Android/data/ru.edgar.space/files/archive_lite.zip",
-            "size": 1518215375,
+            "size": 129674476,
             "urls": "http://cdn.lastprojectv.com/mobile/archive_lite.zip?edgar=1829top09",
 			"paths": [
 				{
@@ -117,7 +117,7 @@
         {
             "type": "/storage/emulated/0/Android/data/ru.edgar.space/files",
 			"zip_path": "/storage/emulated/0/Android/data/ru.edgar.space/files/archive_config.zip",
-            "size": 7332321,
+            "size": 634673,
             "urls": "http://cdn.lastprojectv.com/mobile/archive_config.zip?edgar=1829top09",
 			"paths": [
 				{
