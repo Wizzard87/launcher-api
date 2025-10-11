@@ -1,6 +1,6 @@
 {
 	"launcher_version": 1,
-	"launcher_url": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/launcher.apk?edgar=1829top09",
+	"launcher_url": "https://github.com/Wizzard87/launcher-api/releases/download/beta-api/launcher.apk?edgar=1829top09",
 	"launcher_path": "/storage/emulated/0/Android/data/ru.edgar.space/files/launcher.apk",
 	"launcher_name": "/launcher.apk",
 	"isTest": true,
