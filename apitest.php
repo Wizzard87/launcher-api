@@ -1,8 +1,8 @@
 {
 	"launcher_version": 1,
-	"launcher_url": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/launcher_space.apk?edgar=1829top09",
-	"launcher_path": "/storage/emulated/0/Android/data/ru.edgar.space/files/launcher_space.apk",
-	"launcher_name": "/launcher_space.apk",
+	"launcher_url": "https://triomshors.ru/matrp-zakaz-edgar/files/build5/launcher.apk?edgar=1829top09",
+	"launcher_path": "/storage/emulated/0/Android/data/ru.edgar.space/files/launcher.apk",
+	"launcher_name": "/launcher.apk",
 	"isTest": true,
 	"test_api": true,
         "api": "https://raw.githubusercontent.com/edgardevwork/space-json-php/main/api/main.json?edgar=1829top09",
