@@ -6,11 +6,11 @@
     "isTest": true,
     "test_api": true,
     "api": "https://raw.githubusercontent.com/edgardevwork/space-json-php/main/api/main.json?edgar=1829top09",
-    "archives": [
+    	"archives": [
     {
         "type": "/storage/emulated/0/Android/data/ru.edgar.space/files",
         "zip_path": "/storage/emulated/0/Android/data/ru.edgar.space/files/4-zak-cache.zip",
-        "size": 424241557,
+        "size": 556848958,
         "urls": "https://github.com/Wizzard87/launcher-api/releases/download/beta-api/4-zak-cache.zip?edgar=1829top09",
         "paths": [
             {
