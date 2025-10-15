@@ -1,12 +1,12 @@
 [
 	{
-      "name": "SPACE RP #1",
+      "name": "REPROJECT TEST",
 	  "color": "ff33AAD9",
-	  "status": 0,
+	  "status": 1,
 	  "recommend": true,
-	  "newstatus": false,
-      "edgar_host": "SPACE-RP",
-      "edgar_port": 7777,
+	  "newstatus": true,
+      "edgar_host": "46.183.184.33",
+      "edgar_port": 7910,
       "id": 0
 	}
 ]
