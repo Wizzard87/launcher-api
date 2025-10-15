@@ -5,7 +5,7 @@
 	"launcher_name": "/launcher.apk",
 	"isTest": true,
 	"test_api": true,
-        "api": "https://raw.githubusercontent.com/Wizzard87/launcher-api/refs/tags/beta-api/api/main.json?edgar=1829top09",
+        "api": "https://raw.githubusercontent.com/Wizzard87/launcher-api/refs/heads/main/api/main.json?edgar=1829top09",
 	"archives": [
     {
         "type": "/storage/emulated/0/Android/data/ru.edgar.space/files",
