@@ -1,5 +1,5 @@
 {
-	"servers": "https://wizardgames.xyz/api/Requests/Servers.php?edgar=1829top09",
+	"servers": "https://raw.githubusercontent.com/Wizzard87/launcher-api/refs/heads/main/api/Requests/Servers.php",
 	"stories": "https://triomshors.ru/matrp-zakaz-edgar/api/Requests/Stories.php?edgar=1829top09",
 	"faq": "https://triomshors.ru/matrp-zakaz-edgar/api/Requests/Faq.php?edgar=1829top09",
 	"createCharacter": "https://triomshors.ru/matrp-zakaz-edgar/api/Requests/CreateCharacter.php?edgar=1829top09",
