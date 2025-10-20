@@ -8,8 +8,8 @@
     {
         "type": "/storage/emulated/0/Android/data/ru.edgar.space/files",
         "zip_path": "/storage/emulated/0/Android/data/ru.edgar.space/files/4-zak-cache.zip",
+        "hash": 0,
         "size": 556848958,
-        "hash": "hashhere",
         "urls": "https://github.com/Wizzard87/launcher-api/releases/download/beta-api/4-zak-cache.zip",
         "paths": [
             {
