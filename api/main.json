@@ -1,5 +1,5 @@
 {
-	"servers": "http://reprojectapi.0hi.me/Servers.php",
+	"servers": "https://bestmz03.tech-test.net.in/Servers.php",
 	"stories": "https://triomshors.ru/matrp-zakaz-edgar/api/Requests/Stories.php?edgar=1829top09",
 	"faq": "https://triomshors.ru/matrp-zakaz-edgar/api/Requests/Faq.php?edgar=1829top09",
 	"createCharacter": "https://triomshors.ru/matrp-zakaz-edgar/api/Requests/CreateCharacter.php?edgar=1829top09",
