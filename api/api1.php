@@ -3,7 +3,7 @@
     "launcher_url": "https://github.com/Wizzard87/launcher-api/releases/download/beta-api/launcher.apk",
     "launcher_path": "/storage/emulated/0/Android/data/ru.edgar.space/files/launcher.apk",
     "launcher_name": "/launcher.apk",
-    "api": "https://raw.githubusercontent.com/edgardevwork/space-json-php/main/api/main.json",
+    "api": "https://raw.githubusercontent.com/Wizzard87/launcher-api/refs/heads/main/api/main.json",
     	"archives": [
     {
         "type": "/storage/emulated/0/Android/data/ru.edgar.space/files",
