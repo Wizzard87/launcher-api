@@ -1,5 +1,5 @@
 {
-    "launcher_version": 0,
+    "launcher_version": 20,
     "launcher_url": "https://github.com/Wizzard87/launcher-api/releases/download/beta-api/launcher.apk",
     "launcher_path": "/storage/emulated/0/Android/data/ru.edgar.space/files/launcher.apk",
     "launcher_name": "/launcher.apk",
